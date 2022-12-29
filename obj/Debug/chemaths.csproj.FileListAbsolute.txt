@@ -1,0 +1,68 @@
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.MainWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.Properties.Resources.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.csproj.GenerateResource.cache
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\bin\Debug\chemaths.exe.config
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\bin\Debug\chemaths.exe
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\bin\Debug\chemaths.pdb
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.exe
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.pdb
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.HelpWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.InfoWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.ActiveMainWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.CalculatorWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemaths\obj\Debug\chemaths.GameWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\bin\Debug\chemaths.exe.config
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\bin\Debug\chemaths.exe
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\bin\Debug\chemaths.pdb
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.CalculatorWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.GameWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.HelpWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.InfoWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.MainWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.Properties.Resources.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.ActiveMainWindow.resources
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.csproj.GenerateResource.cache
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.exe
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.pdb
+C:\Users\User\Desktop\uni\2 курс\курсач\chemistry\chemaths\obj\Debug\chemaths.LevelWindow.resources
+H:\chemaths\chemaths\bin\Debug\chemaths.exe.config
+H:\chemaths\chemaths\bin\Debug\chemaths.exe
+H:\chemaths\chemaths\bin\Debug\chemaths.pdb
+H:\chemaths\chemaths\obj\Debug\chemaths.csproj.AssemblyReference.cache
+H:\chemaths\chemaths\obj\Debug\chemaths.csproj.SuggestedBindingRedirects.cache
+H:\chemaths\chemaths\obj\Debug\chemaths.CalculatorWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.GameWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.HelpWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.InfoWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.LevelWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.MainWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.Properties.Resources.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.ActiveMainWindow.resources
+H:\chemaths\chemaths\obj\Debug\chemaths.csproj.GenerateResource.cache
+H:\chemaths\chemaths\obj\Debug\chemaths.csproj.CoreCompileInputs.cache
+H:\chemaths\chemaths\obj\Debug\chemaths.exe
+H:\chemaths\chemaths\obj\Debug\chemaths.pdb
+H:\copy_chemaths\obj\Debug\chemaths.csproj.AssemblyReference.cache
+H:\copy_chemaths\obj\Debug\chemaths.csproj.SuggestedBindingRedirects.cache
+H:\copy_chemaths\obj\Debug\chemaths.CalculatorWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.GameWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.HelpWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.InfoWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.LevelWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.MainWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.Properties.Resources.resources
+H:\copy_chemaths\obj\Debug\chemaths.ActiveMainWindow.resources
+H:\copy_chemaths\obj\Debug\chemaths.csproj.GenerateResource.cache
+H:\copy_chemaths\obj\Debug\chemaths.csproj.CoreCompileInputs.cache
+H:\copy_chemaths\obj\Debug\chemaths.exe
+H:\copy_chemaths\obj\Debug\chemaths.pdb
+H:\copy_chemaths\bin\Debug\chemaths.exe.config
+H:\copy_chemaths\bin\Debug\chemaths.exe
+H:\copy_chemaths\bin\Debug\chemaths.pdb
+H:\copy_chemaths\bin\Debug\Newtonsoft.Json.dll
+H:\copy_chemaths\bin\Debug\Newtonsoft.Json.xml
+H:\copy_chemaths\obj\Debug\chemaths.csproj.CopyComplete
